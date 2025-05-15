@@ -5,7 +5,7 @@ DUPLA: Joyciane e Ana Julia
 Aqui estar os links das atividades proposta pelo professor. Estaram as atividades de 1 a 7.
 
 ## Link das atividades a baixo:
-- [Atividade 01]()
+- [Atividade 01]( https://joycianesousa.github.io/Exercicio_01/)
 - [Atividade 02]( https://joycianesousa.github.io/Exercicio_02/)
 - [Atividade 03]( https://joycianesousa.github.io/Exercicio_03/)
 - [Atividade 04](https://joycianesousa.github.io/Atividade-04/)
