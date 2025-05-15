@@ -7,7 +7,7 @@ Aqui estar os links das atividades proposta pelo professor. Estaram as atividade
 ## Link das atividades a baixo:
 - [Atividade 01]()
 - [Atividade 02](https://joycianesousa.github.io/atividade2/)
-- [Atividade 03]()
+- [Atividade 03]( https://joycianesousa.github.io/Exercicio_03/)
 - [Atividade 04](https://joycianesousa.github.io/Atividade-04/)
 - [Atividade 05](https://joycianesousa.github.io/Atividade-05/)
 - [Atividade 06](https://joycianesousa.github.io/Atividade06/)
